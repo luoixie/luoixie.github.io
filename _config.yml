@@ -42,7 +42,7 @@ timezone:      null
 title: Writeups
 subTitle: Just a blog.
 description: 
-url: http://luoixie.github.io
+url: http://fantaghiro.github.io
 feed: /atom.xml
 
 #菜单配置
@@ -67,7 +67,7 @@ headimg:
 #关注我
 follow:
   - class: fa-github
-    url: http://github.com/luoixie
+    url: http://github.com/fantaghiro
 
 #作者信息
 author:
@@ -77,4 +77,4 @@ author:
 #评论信息
 disqus:
   config: true
-  id: luoixie
+  id: fantaghiro
