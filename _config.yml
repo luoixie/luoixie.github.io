@@ -42,7 +42,7 @@ timezone:      null
 title: Writeups
 subTitle: Just a blog.
 description: 
-url: https://luoixie.github.io:
+url: https://luoixie.github.io
 feed: /atom.xml
 
 #菜单配置
