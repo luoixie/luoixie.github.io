@@ -15,21 +15,29 @@ tags:
 
 图灵的来信是在我交出试译稿接近一个月之后收到的。对方对我的译文的评价是“流畅、准确”，并采纳我的译文。在邮件沟通中，弄清楚了译者稿费、合同订立方面的事宜。首先，作图灵的译者，稿费应与其他出版社大致相当，并无惊喜。图灵的合同订立流程比较规范。图灵与译者签订的是格式合同，大概是因为图灵有一整套译者招募的流程，一切都可以流水线操作了。对于译者的要求，除了译文质量要求以外，也有几个提交译文的时间点的要求。就是在时间过去五分之一、三分之二和截止日期，提供部分或全部稿件。在履行合同过程中，我差不多都按照时间节点做到了。签订合同牵扯签字事宜。图灵的处理方式也比较便利。对方寄来了盖章的纸质合同。我在合同上签字之后，扫描一份数字版合同传给对方即可，省了我邮寄的麻烦。随着纸质合同寄来的是图灵的金属制书签。虽然算不上什么厚礼，但是还是要说一声：”感谢有心了“。
 
-<img src="http://pic.yupoo.com/fantaghiro_v/DRzm58Wa/AB2Is.png" style="max-width: 50%">
+<img src="http://pic.yupoo.com/luoixie
+
+_v/DRzm58Wa/AB2Is.png" style="max-width: 50%">
 
 由于我对图灵的编辑后台非常感兴趣，所以专门向对方跟我联系的编辑询问的在线提交的平台。最终发现，就是在[图灵社区](http://www.ituring.com.cn/)的写作板块中添加权限、创建合集，并且暂且先把合集保密即可。虽然对方编辑跟我说，可以译出一部分译文，就把内容贴进去。但是我还是没这么做。始终还是在word中翻译完毕提交的，因为害怕自己在线提交会弄错。结果在提交了三分之一的译文的时候，我到我的账户中写作板块的合集中看了一下，这一部分内容已经被对方编辑贴到了系统中。
 
-<img src="http://pic.yupoo.com/fantaghiro_v/DRzqvmKy/aRcj8.png" style="max-width: 80%">
+<img src="http://pic.yupoo.com/luoixie
+
+_v/DRzqvmKy/aRcj8.png" style="max-width: 80%">
 
 从上图可以看到，每一个合集可以有多名人员参与。文章的阅读量是其中内容被点开的次数。因此，这里的数字并非代表人数，而是点击数。
 
 点击标题进入合集中时，可以看到一个目录。点击目录中的章节进入内文。在内文下有个版本控制的横条，非常地简单。
 
-<img src="http://pic.yupoo.com/fantaghiro_v/DRzqEugc/ZajBJ.png" style="max-width: 80%">
+<img src="http://pic.yupoo.com/luoixie
+
+_v/DRzqEugc/ZajBJ.png" style="max-width: 80%">
 
 在下拉列表中，可以看到不同合集成员在不同时间对内文进行更改的版本。版本的确定就是以”姓名-时间“为标识。所谓的小步差异和大步差异，我尝试点击之后，发现有一个类似于显示修订内容的界面，显示出对原文进行的更改。点击编辑界面，会出现如下界面：
 
-<img src="http://pic.yupoo.com/fantaghiro_v/DRzqEcJt/4aCkW.png" style="max-width: 80%">
+<img src="http://pic.yupoo.com/luoixie
+
+_v/DRzqEcJt/4aCkW.png" style="max-width: 80%">
 
 可以看出这是一个上下对照的页面。上面是编辑框，下面是预览框。虽然编辑的选项与word中的编辑工具栏十分相像。但是上面的编辑框用的应该是markdown格式。因此，点击B之后，会为选中的文字来年改变添加双星号，添加图片也不是直接粘贴就可以的。
 

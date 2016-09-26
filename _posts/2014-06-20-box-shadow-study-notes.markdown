@@ -49,7 +49,13 @@ Formal syntax: none | [inset? && [ <offset-x> <offset-y> <blur-radius>? <spread-
   
 ##具体实例##
   
-<p data-height="518" data-theme-id="2146" data-slug-hash="tLxpc" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/tLxpc/'>box-shadow-test</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="518" data-theme-id="2146" data-slug-hash="tLxpc" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/tLxpc/'>box-shadow-test</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
   
 ###实例说明###

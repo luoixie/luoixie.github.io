@@ -12,7 +12,9 @@ tags:
 
 有幸得见天日的第一款二人桌游名为Aton，官方名称不知道怎么叫，不过M君亲切地呼唤其为“啊痛！”
 
-<img style="max-width: 90%" src="http://pic.yupoo.com/fantaghiro_v/DQcqZ2Qw/15hJPX.jpg" />
+<img style="max-width: 90%" src="http://pic.yupoo.com/luoixie
+
+_v/DQcqZ2Qw/15hJPX.jpg" />
 
 游戏的设定是这样的：它模拟的是两大祭司争取埃及底比斯四个最大神庙的席位的故事。两大祭司分别代表埃及的阿顿神和阿蒙神。这个游戏是德国设计师Thorsten Gimmler的作品。我到wikipedia上查了一下，Aton在古埃及神话里面就是太阳的意思；Amon则为生命和生殖之神。Amon据传长这幅模样：
 
@@ -22,11 +24,15 @@ tags:
 
 说道太阳神和屁，又让我想到了古埃及神圣的圣甲虫，俗名屎壳郎。话说在2010年南非世界杯开幕式上，就有人扮演成大屎壳郎推着一个足球入场。
 
-<img style="max-width: 90%" src="http://pic.yupoo.com/fantaghiro_v/DQd8p1c2/LEtqf.jpg" />
+<img style="max-width: 90%" src="http://pic.yupoo.com/luoixie
+
+_v/DQd8p1c2/LEtqf.jpg" />
 
 古埃及人的传说里是这么讲的：太阳神在白天十二小时间，乘坐太阳船飞过天空照耀大地，然后就会死去。在夜晚，由众神保护，乘太阳船穿过地府。黎明时，在地府的出口处与圣甲虫神合为一体，获得重生…… 屎壳郎不仅与太阳神有关，同时也与Amon神所主的生命和生殖有关。因为屎壳郎把卵产在粪球里，卵孵出的幼虫以粪便喂食，长成成虫。古埃及人就以为滚粪球的屎壳郎爸爸和从里面出来的成年儿子是同一个，于是屎壳郎有了“复活”、“重生”的含义。具体可以移步[这里](http://blog.sina.com.cn/s/blog_48c2baa00100k58y.html)找雷击。
 
-<img style="max-width: 90%" src="http://pic.yupoo.com/fantaghiro_v/DQd8pMqg/1JptB.jpg" />
+<img style="max-width: 90%" src="http://pic.yupoo.com/luoixie
+
+_v/DQd8pMqg/1JptB.jpg" />
 
 我拿着英文版的说明书看了半天，终于大致弄明白了游戏规则。但是由于自己才疏学浅，外加规则太多，在游戏的具体实施期间还是出现了困惑。最终M君找到了中文版的规则，有依照里面讲的摸索了好几遍，才终于达到目前比较熟练的使用程度。有兴趣的同学，可以移步到[这里](http://pan.baidu.com/share/link?shareid=180463&uk=855946433)研究一番。
 

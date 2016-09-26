@@ -64,7 +64,9 @@ tags:
 
 说到技术书籍的分享，把豆瓣这么文艺的平台拨到一边，[图灵社区](http://www.ituring.com.cn/)这一片洋溢着知性、理性和极客风范的净土浮上水平线。图灵文化对于纸质书似乎不那么执着，在电子书那一栏中，有些电子书有纸质版在售，有些则没有。例如[《Angular JS入门教程》](http://www.ituring.com.cn/book/1206)和[《Sketch中文手册》](http://www.ituring.com.cn/book/1305)这两本就是完全免费的电子书。由于正在为图灵译书，所以晓得图灵的后台图书编辑系统是支持Markdown的，因此图灵的书不仅有纸质版，还有PDF版和对应的Kindle版，对于他们而言，这种多格式的运作方式成本并不高。所有这些书在社区中，直接在书籍内容旁边就有Tab页集合了勘误、评论和延伸阅读的文章，使得书籍本身价值得以提升，呈现的内容更为爆满，也使人与作者、编辑和书之间的沟通变得更为顺畅。
 
-除了图灵社区以外，github也是一片技术书籍诞生的热土。例如阮一峰的这本[《ECMAScript 6入门》](http://es6.ruanyifeng.com/)，就是其中之一。据说这本书不久就会由电子工业出版社出版纸质版本，不过电子版本已经优先在网路面世。这本书的简介中称这本书是“开源”的javascript教程。任何人都可以在保持原作者署名和非商用的前提下，自由地阅读、分享、修改本书。最近看过的另外一本[《JavaScript Patterns》](https://github.com/fantaghiro/javascript.patterns)一书则是直接在Github中集体翻译完成并共享的。在[这里](http://www.gitbook.io/)，你能看到更多基于git、github和markdown制作的互动书籍gitbook。
+除了图灵社区以外，github也是一片技术书籍诞生的热土。例如阮一峰的这本[《ECMAScript 6入门》](http://es6.ruanyifeng.com/)，就是其中之一。据说这本书不久就会由电子工业出版社出版纸质版本，不过电子版本已经优先在网路面世。这本书的简介中称这本书是“开源”的javascript教程。任何人都可以在保持原作者署名和非商用的前提下，自由地阅读、分享、修改本书。最近看过的另外一本[《JavaScript Patterns》](https://github.com/luoixie
+
+/javascript.patterns)一书则是直接在Github中集体翻译完成并共享的。在[这里](http://www.gitbook.io/)，你能看到更多基于git、github和markdown制作的互动书籍gitbook。
 
 另外，网上各种语言的文档其实也可以看作典型的技术书籍的范本。例如HAML的这份[参考文档](http://haml.info/docs/yardoc/file.REFERENCE.html)，不就是一本典型的小手册吗？这种文档真是遍地都是，如果你的mac机上装有[Dash](http://kapeli.com/dash)的话，还会看到更多实例。
 

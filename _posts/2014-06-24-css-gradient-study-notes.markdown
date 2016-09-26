@@ -18,7 +18,13 @@ CSS中的&lt;gradient>指的是一种image，可以看到&lt;gradient>通常设�
 
 CSS中的过渡gradient包含有四种形式：linear-gradient、radial-gradient、repeating-linear-gradient、repeating-radial-gradient。这四种类型下面各举一例：
 
-<p data-height="268" data-theme-id="2146" data-slug-hash="JbECi" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/JbECi/'>JbECi</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="2146" data-slug-hash="JbECi" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/JbECi/'>JbECi</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 ##linear-gradient
@@ -27,7 +33,9 @@ CSS中的过渡gradient包含有四种形式：linear-gradient、radial-gradient
 
 linear-gradient是线性过渡。它是由一个轴——过渡线(gradient line)——定义的。在gradient line上的每一个点颜色都不同。垂直于gradient line的每一条线上的颜色都相同，都是该垂直线与gradient line相交的焦点的颜色。如下图所示：
 
-<img src="http://pic.yupoo.com/fantaghiro_v/DR7CkQuj/j12bE.png">
+<img src="http://pic.yupoo.com/luoixie
+
+_v/DR7CkQuj/j12bE.png">
 
 gradient line是通过box中点并有一定倾角的轴线。过渡色是由不同点来定义的，包括起始点（starting point）、终止点（ending point）以及中间可选的停色点（stop-color points）。
 
@@ -95,7 +103,13 @@ angle角度，定义的就是渐变的方向。当渐变方向不是垂直，水
 
 以下四个例子有助于理解gradient line以及angle的设置。注意是同to top, to top right与0deg和45deg的不同设置方式，但是却获得同样的效果。注意领会starting point的位置。注意领会“to”一词内涵的方向含义。
 
-<p data-height="268" data-theme-id="2146" data-slug-hash="Jsyew" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/Jsyew/'>Jsyew</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="2146" data-slug-hash="Jsyew" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/Jsyew/'>Jsyew</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 
@@ -108,7 +122,13 @@ angle角度，定义的就是渐变的方向。当渐变方向不是垂直，水
 
 下面是添加了厂商前缀的一些例子，可以跟上面不加厂商前缀的例子进行比较。
 
-<p data-height="298" data-theme-id="2146" data-slug-hash="lmCnq" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/lmCnq/'>lmCnq</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="298" data-theme-id="2146" data-slug-hash="lmCnq" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/lmCnq/'>lmCnq</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 下面是同一种渐变效果的几种不同的写法：
@@ -124,7 +144,13 @@ angle角度，定义的就是渐变的方向。当渐变方向不是垂直，水
 }
 {% endhighlight %}
 
-<p data-height="268" data-theme-id="2146" data-slug-hash="vfstA" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/vfstA/'>vfstA</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="2146" data-slug-hash="vfstA" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/vfstA/'>vfstA</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 注意，不带厂商前缀的标准写法一定要放到最后。同时最好在一开始设置一个fallback 背景色。注意带厂商前缀和不带厂商前缀中关键词的选用正好是相反的。
@@ -132,14 +158,26 @@ angle角度，定义的就是渐变的方向。当渐变方向不是垂直，水
 
 ###linear-gradient的灵活运用
 
-<p data-height="268" data-theme-id="2146" data-slug-hash="rHJsb" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/rHJsb/'>rHJsb</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="2146" data-slug-hash="rHJsb" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/rHJsb/'>rHJsb</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 从上例中可以看出，linear-gradient可以设置多色渐变。通过巧妙设置color stop，也能够构成清晰的条纹图案。linear-gradient支持透明设置。并且可以多次设置linear-gradient效果。不同的效果会产生叠加。先设置的颜色位于上层，后设置的位于下层。如果上层的颜色设置有透明，那么下层的颜色则会透出来。
 
 此外，还可以通过设置background-size来巧妙地实现渐变效果的重复平铺。见下面的例子：
 
-<p data-height="624" data-theme-id="2146" data-slug-hash="KoqfE" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/KoqfE/'>KoqfE</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="624" data-theme-id="2146" data-slug-hash="KoqfE" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/KoqfE/'>KoqfE</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 ##radial-gradient
@@ -152,7 +190,9 @@ radial-gradient由中心（center）、结束图形轮廓（ending shape contour
 
 radial-gradient不允许设置重复的渐变，如果要实现重复的径向渐变，可以使用repeating-radial-gradient。
 
-<img style="max-width: 90%;" src="http://pic.yupoo.com/fantaghiro_v/DRiOmtI9/H727n.png" >
+<img style="max-width: 90%;" src="http://pic.yupoo.com/luoixie
+
+_v/DRiOmtI9/H727n.png" >
 
 ###语法
 
@@ -243,12 +283,24 @@ radial-gradient不允许设置重复的渐变，如果要实现重复的径向�
 
 ###radial-gradient实例
 
-<p data-height="331" data-theme-id="2146" data-slug-hash="dJGvj" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/dJGvj/'>dJGvj</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="331" data-theme-id="2146" data-slug-hash="dJGvj" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/dJGvj/'>dJGvj</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 ###radial-gradient灵活使用
 
-<p data-height="307" data-theme-id="2146" data-slug-hash="sCpeJ" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/sCpeJ/'>sCpeJ</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="307" data-theme-id="2146" data-slug-hash="sCpeJ" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/sCpeJ/'>sCpeJ</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 从上述例子可以看出，radial-gradient可以作为图片来看待，可以定位；radial-gradient可以叠加，可以为radial-gradient添加底色。
@@ -257,14 +309,26 @@ radial-gradient不允许设置重复的渐变，如果要实现重复的径向�
 
 简而言之，repeating-linear-gradient就是可以无限重复的linear-gradient。见下例：
 
-<p data-height="268" data-theme-id="2146" data-slug-hash="CHeAi" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/CHeAi/'>CHeAi</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="268" data-theme-id="2146" data-slug-hash="CHeAi" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/CHeAi/'>CHeAi</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 需要注意的是：在设置repeating-linear-gradient时，与linear-gradient不同的是，不要给repeating-linear-gradient设置明确的end color。如果设置了，那么也就repeat不起来了。最后一个颜色一定要设置一定长度或百分比才行。
 
 同理，一下是两个repeating-radial-gradient的例子：
 
-<p data-height="578" data-theme-id="2146" data-slug-hash="EAFeB" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/fantaghiro/pen/EAFeB/'>EAFeB</a> by Pei (<a href='http://codepen.io/fantaghiro'>@fantaghiro</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
+<p data-height="578" data-theme-id="2146" data-slug-hash="EAFeB" data-default-tab="result" class='codepen'>See the Pen <a href='http://codepen.io/luoixie
+
+/pen/EAFeB/'>EAFeB</a> by Pei (<a href='http://codepen.io/luoixie
+
+'>@luoixie
+
+</a>) on <a href='http://codepen.io'>CodePen</a>.</p>
 <script async src="//codepen.io/assets/embed/ei.js"></script>
 
 ##五彩斑斓的由gradient制作的图案
