@@ -42,7 +42,7 @@ timezone:      null
 title: Writeups
 subTitle: Just a blog.
 description: 
-url: http://luoixie
+url: https://luoixie
 
 .github.io
 feed: /atom.xml
@@ -69,7 +69,7 @@ headimg:
 #关注我
 follow:
   - class: fa-github
-    url: http://github.com/luoixie
+    url: https://github.com/luoixie
 
 
 
