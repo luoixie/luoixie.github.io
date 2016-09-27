@@ -1,9 +1,0 @@
----
-layout: blank
----
-User-agent: *
-Disallow: /css/
-Disallow: /js/
-Disallow: /works/
-
-Sitemap: https://luoixie.github.io/sitemap.xml
