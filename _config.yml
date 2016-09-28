@@ -100,3 +100,6 @@ disqus:
 duoshuo:
   config: false
   id: zhanxin
+
+# eevee adimn
+eevee: 0.0.2
