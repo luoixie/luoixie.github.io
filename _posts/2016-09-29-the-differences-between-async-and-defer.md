@@ -1,7 +1,8 @@
 ---
 layout: post
 title: defer和async的区别
-description: defer和async都是属于<script>元素
+description: defer和async都是属于\<script>元素
+
 ---
 
 # defer 和 async 的区别
