@@ -7,6 +7,7 @@ description: defer和async都能并行加载脚本文件，但...
 
 # defer 和 async 的区别
 
+
 ### `defer` 延迟脚本
 > HTML 4.01中定义了`defer`属性,只适用于外部脚本;
 > 
