@@ -5,6 +5,6 @@ description: test for new theme.
 ---
 # test
 
-This page just use to testing the new theme!
+This page just use for testing the new theme!
 
 Thank you !
